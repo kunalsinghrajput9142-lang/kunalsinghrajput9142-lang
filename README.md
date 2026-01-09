@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋,This is Kunal Kumar</h1>
-<h3 align="center">I'm a Student from India.</h3>
+<h3 align="center">I'm a student, Currently pursuing B.Tech.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
