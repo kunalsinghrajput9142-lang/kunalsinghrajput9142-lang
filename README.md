@@ -1,5 +1,5 @@
 <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
-  
+
   <rect width="1200" height="140" fill="#0f172a"/>
 
   <rect x="140" y="40" width="60" height="60" fill="#38bdf8" opacity="0.5"
@@ -16,15 +16,16 @@
         transform="rotate(14 910 70)"/>
   <rect x="950" y="55" width="40" height="40" fill="#34d399" opacity="0.4"
         transform="rotate(-12 970 75)"/>
-        
-  <text x="50%" y="88" text-anchor="middle"
+
+  <text x="50%" y="88"
+        text-anchor="middle"
         font-size="32"
         fill="#e5e7eb"
         font-family="Arial, sans-serif"
         font-weight="bold">
-    Hi 👋, This is Kunal Kumar
   </text>
 </svg>
+
 
 <h3 align="center">Student, Learner and Achiever.</h3>
 
