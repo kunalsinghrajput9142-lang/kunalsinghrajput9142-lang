@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋,This is Kunal Kumar</h1>
+<marqueue><h1 align="center">Hi👋,This is Kunal Kumar</h1></marqueue>
 <h3 align="center">A Student, Learner and Achiever.</h3>
 
 <p align="left">
