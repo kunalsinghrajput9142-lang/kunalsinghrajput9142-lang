@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-</p>
-
+<h1 align="center">Hi👋,This is Kunal Kumar</h1>
 <h3 align="center">Student, Learner and Achiever.</h3>
 
 <p align="left">
