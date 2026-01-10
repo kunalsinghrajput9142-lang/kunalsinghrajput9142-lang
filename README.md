@@ -1,9 +1,8 @@
 <h1 align="center">Hi👋,This is Kunal Kumar</h1>
-<h3 align="center">I'm a student, Currently pursuing B.Tech.</h3>
+<h3 align="center">A Student, Learner and Achiever.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-kumar-27895a35b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-kumar-27895a35b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
