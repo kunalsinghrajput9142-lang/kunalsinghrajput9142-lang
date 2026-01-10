@@ -1,4 +1,7 @@
-<h1 align="center">Hi👋,This is Kunal Kumar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+👋,+This+is+Kunal+Kumar" />
+</p>
+
 <h3 align="center">Student, Learner and Achiever.</h3>
 
 <p align="left">
