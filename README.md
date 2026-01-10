@@ -1,31 +1,23 @@
+
 <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A66C2;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#6A11CB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2575FC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
 
-  <rect width="1200" height="140" fill="#0f172a"/>
+  <rect width="1200" height="140" fill="url(#grad1)" />
 
-  <rect x="140" y="40" width="60" height="60" fill="#38bdf8" opacity="0.5"
-        transform="rotate(15 170 70)"/>
-  <rect x="210" y="55" width="40" height="40" fill="#38bdf8" opacity="0.4"
-        transform="rotate(-10 230 75)"/>
-
-  <rect x="540" y="35" width="70" height="70" fill="#a78bfa" opacity="0.5"
-        transform="rotate(-18 575 70)"/>
-  <rect x="620" y="55" width="45" height="45" fill="#a78bfa" opacity="0.4"
-        transform="rotate(12 642 77)"/>
-
-  <rect x="880" y="40" width="60" height="60" fill="#34d399" opacity="0.5"
-        transform="rotate(14 910 70)"/>
-  <rect x="950" y="55" width="40" height="40" fill="#34d399" opacity="0.4"
-        transform="rotate(-12 970 75)"/>
-
-  <text x="50%" y="88"
-        text-anchor="middle"
-        font-size="32"
-        fill="#e5e7eb"
+  <text x="50%" y="85" text-anchor="middle"
+        font-size="34"
+        fill="white"
         font-family="Arial, sans-serif"
         font-weight="bold">
+    Hi 👋, This is Kunal Kumar
   </text>
 </svg>
-
 
 <h3 align="center">Student, Learner and Achiever.</h3>
 
