@@ -1,7 +1,6 @@
 <h1 align="center">Hi👋,This is Kunal Kumar</h1>
 <h3 align="center">A Student, Learner and Achiever.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
