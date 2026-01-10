@@ -11,7 +11,7 @@
       box-shadow: 0 8px 20px rgba(0,0,0,0.15);
       display: inline-block;
   ">
-  <p style="color: lightgreen; font-size: 18px; font-weight: bold; margin: 10px 0;">
+  <p style="color:lightgreen; font-size: 18px; font-weight: bold; margin: 10px 0;">
   Profession: Student
   </p>
   <p style="color:lightgreen; font-size:18px; font-weight:bold; margin:10px 0:">
