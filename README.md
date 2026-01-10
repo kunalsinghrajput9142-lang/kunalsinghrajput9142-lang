@@ -13,20 +13,7 @@
   ">
   <p style="color: lightgreen; font-size: 18px; font-weight: bold; margin: 10px 0;">
   Profession: Student
-</p>
-
-<p style="color: lightgreen; font-size: 18px; font-weight: bold; margin: 10px 0;">
-  Degree: B.Tech
-</p>
-
-<p style="color: lightgreen; font-size: 18px; font-weight: bold; margin: 10px 0;">
-  Course: CSE
-</p>
-
-<p style="color: lightgreen; font-size: 18px; font-weight: bold; margin: 10px 0;">
-  Specialization: AI & ML
-</p>
-
+  </p>
   <p style="color:lightgreen; font-size:18px; font-weight:bold; margin:10px 0:">
   Degree: B.Tech
   </p>
